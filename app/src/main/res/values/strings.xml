@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Responsive_ui</string>
+    <string name="user_avatar">user_avatar</string>
+    <string name="user_name">Marcy</string>
+    <string name="from">from</string>
+    <string name="youtube">YouTube</string>
+    <string name="_163_5k_views">- 163.5k views</string>
+    <string name="bookmark">bookmark</string>
+    <string name="comment">Turmund searching for Snu Snu</string>
+    <string name="poster">poster</string>
+    <string name="favourite">favourite</string>
+    <string name="likes">112</string>
+    <string name="retweet">retweet</string>
+    <string name="retweets">18</string>
+    <string name="upload">upload</string>
+    <string name="dots">dots</string>
+    <string name="mashups">Mashups</string>
+    <string name="futurama">#futurama</string>
+    <string name="game_of_thrones">#game of thrones</string>
+    <string name="arrow">➔</string>
 </resources>
